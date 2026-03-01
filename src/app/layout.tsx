@@ -24,7 +24,7 @@ const items = [
 
 // Define social media links and placeholder icon paths
 const socialLinks = [
-  { platform: "Instagram", href: "https://www.instagram.com/jay_ofurjoy/", iconPath: "/icons/instagram_icon.svg" }, // <-- Replace YOUR_GITHUB_LINK and icon path
+  { platform: "Instagram", href: "https://www.instagram.com/_octaviaap/", iconPath: "/icons/instagram_icon.svg" }, // <-- Replace YOUR_GITHUB_LINK and icon path
   { platform: "LinkedIn", href: "https://www.linkedin.com/in/octavia-ayusha-putri-4b86b9217/", iconPath: "/icons/linkedin_icon.svg" }, // <-- Replace YOUR_LINKEDIN_LINK and icon path
   { platform: "Gmail", href: "mailto:octavia_2203102240@mhs.unipma.ac.id", iconPath: "/icons/gmail_icon.svg" }, // <-- Replace YOUR_EMAIL_ADDRESS and icon path
 ];

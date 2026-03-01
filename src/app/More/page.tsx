@@ -10,14 +10,14 @@ import Squares from '@/blocks/Backgrounds/Squares/Squares';
 
 // Define social media links (can reuse from layout or define here)
 const socialLinks = [
-    { platform: "GitHub", href: "https://github.com/Yuyuhiei", iconPath: "/icons/github_icon.svg" }, // <-- Replace YOUR_GITHUB_LINK and icon path
-    { platform: "LinkedIn", href: "https://www.linkedin.com/in/lauvigne-lumeda/", iconPath: "/icons/linkedin_icon.svg" }, // <-- Replace YOUR_LINKEDIN_LINK and icon path
-    { platform: "Gmail", href: "mailto:lumedalauvigne@gmail.com", iconPath: "/icons/gmail_icon.svg" }, // <-- Replace YOUR_EMAIL_ADDRESS and icon path
+    { platform: "Instagram", href: "https://www.instagram.com/_octaviaap/", iconPath: "/icons/instagram_icon.svg" }, // <-- Replace YOUR_GITHUB_LINK and icon path
+    { platform: "LinkedIn", href: "https://www.linkedin.com/in/octavia-ayusha-putri-4b86b9217/", iconPath: "/icons/linkedin_icon.svg" }, // <-- Replace YOUR_LINKEDIN_LINK and icon path
+    { platform: "Gmail", href: "mailto:octavia_2203102240@mhs.unipma.ac.id", iconPath: "/icons/gmail_icon.svg" }, // <-- Replace YOUR_EMAIL_ADDRESS and icon path
 ];
 
 // Define contact information
 const contactInfo = {
-    email: "lumedalauvigne@gmail.com",
+    email: "octavia_2203102240@mhs.unipma.ac.id",
 };
 
 
