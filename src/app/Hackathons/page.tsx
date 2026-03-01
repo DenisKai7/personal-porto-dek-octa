@@ -169,7 +169,7 @@ export default function Hackathons() {
 
       {/* Footer Section */}
       <footer className="flex w-full items-center justify-center p-4 border-t border-white/[.15] text-white/50 text-sm font-light mt-20">
-        <p>&copy; {new Date().getFullYear()} Lauvigne Lumeda. All rights reserved.</p>
+        <p>&copy; {new Date().getFullYear()} Octavia Ayusha Putri. All rights reserved.</p>
       </footer>
     </>
   );
