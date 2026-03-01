@@ -18,8 +18,8 @@ import { gilroy } from "@/fonts/fonts";
 // Define items for GooeyNav (moved from page.tsx)
 const items = [
   { label: "Home", href: "/" },
-  { label: "Certifications", href: "/Hackathons" },
-  { label: "Contact", href: "/Contact" }, // Adjust as needed
+  { label: "Certifications", href: "/Certifications" },
+  { label: "More", href: "/More" }, // Adjust as needed
 ];
 
 // Define social media links and placeholder icon paths
