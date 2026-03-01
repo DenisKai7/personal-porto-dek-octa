@@ -7,7 +7,7 @@ import BlurText from "@/blocks/TextAnimations/BlurText/BlurText";
 import RollingGallery from "@/blocks/Components/RollingGallery/RollingGallery";
 import FallingText from "@/blocks/TextAnimations/FallingText/FallingText";
 import Threads from "@/blocks/Backgrounds/Threads/Threads";
-import HackathonEntry from "./HackathonEntry";
+import HackathonEntry from "./CertificationsEntry";
 
 const handleAnimationComplete = () => {
   console.log('Hackathon page animation completed!');
